@@ -11,5 +11,33 @@ body {
   display: inline-block;
   padding: 10px;
 
-  text-decoration: none;
 }
+.header a:hover{
+    text-decoration: underline;
+    
+}
+button {
+    background-color: tomato;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px 6px;
+    padding: 3px 20px;
+    
+}
+button:hover{
+    background: rgb(184, 51, 28);
+}
+.about a:hover{
+    background: rgba(255, 68, 0, 0.959);
+    
+}
+.navbar {
+    background-color: white;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, 0.068);
+    overflow: auto;
+}
+header{
+    background: gray;
+}
+
+
