@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.header a {
+  display: inline-block;
+  padding: 10px;
+
+  text-decoration: none;
+}
