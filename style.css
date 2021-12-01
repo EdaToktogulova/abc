@@ -233,12 +233,4 @@ header {
   font-size: 80%;
   text-align: center;
 }
-.git-hub img{
-  float: right;
-}
-.git-hub {
-  text-decoration: none;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
